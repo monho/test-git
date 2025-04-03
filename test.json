@@ -1,4 +1,5 @@
 [{
     "TEST":"TEST1",
+    "test" : "asdf"
     "TEST2":"TEST2"
 }]
